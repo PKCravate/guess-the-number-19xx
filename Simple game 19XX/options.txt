@@ -1,0 +1,7 @@
+langue=2
+taille=0
+vitesse=10
+operations=0
+maximum=4
+negatifs=0
+musique=1
